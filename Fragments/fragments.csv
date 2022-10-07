@@ -1,0 +1,115 @@
+,id,original_file,path_raw,path_processed
+0,1,aaa0044 F1F2F3F4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 F1F2F3F4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/1.jpeg
+1,2,aaa 0071 DSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 DSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/2.jpeg
+2,3,aaa 0071 G1G2.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 G1G2.tif,/Users/quantco/Viopsy Datasets/Fragments/3.jpeg
+3,4,aaa0066 newC.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 newC.tif,/Users/quantco/Viopsy Datasets/Fragments/4.jpeg
+4,5,aaa0064 ASlice_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 ASlice_new.tif,/Users/quantco/Viopsy Datasets/Fragments/5.jpeg
+5,6,aaa0066 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/6.jpeg
+6,7,aaa0086 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/7.jpeg
+7,8,aaa0086 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/Fragments/8.jpeg
+8,9,aaa0086 C1C2C3C4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 C1C2C3C4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/9.jpeg
+9,10,aaa0063 G1G2G3G4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 G1G2G3G4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/10.jpeg
+10,11,aaa 0071 ESlice_2.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 ESlice_2.tif,/Users/quantco/Viopsy Datasets/Fragments/11.jpeg
+11,12,aaa 0053 H1H2H3H4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 H1H2H3H4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/12.jpeg
+12,13,aaa0063 DSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 DSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/13.jpeg
+13,14,aaa0044 GSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 GSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/14.jpeg
+14,15,aaa 0053 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/15.jpeg
+15,16,aaa 0053 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/Fragments/16.jpeg
+16,17,aaa0069 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/17.jpeg
+17,18,aaa0069 CSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 CSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/18.jpeg
+18,19,aaa0087 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/19.jpeg
+19,20,aaa0087 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/20.jpeg
+20,21,aaa0044 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/21.jpeg
+21,22,aaa0043 J1J2J3J4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 J1J2J3J4.tif,/Users/quantco/Viopsy Datasets/Fragments/22.jpeg
+22,23,aaa0087 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/23.jpeg
+23,24,aaa0043 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/24.jpeg
+24,25,aaa 0072 ASlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 ASlice.tif,/Users/quantco/Viopsy Datasets/Fragments/25.jpeg
+25,26,aaa 0071 G3G4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 G3G4.tif,/Users/quantco/Viopsy Datasets/Fragments/26.jpeg
+26,27,aaa 0053 G1G2G3G4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 G1G2G3G4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/27.jpeg
+27,28,aaa0064 C1C2C3C4_corrected.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 C1C2C3C4_corrected.tif,/Users/quantco/Viopsy Datasets/Fragments/28.jpeg
+28,29,aaa0069 HSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 HSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/29.jpeg
+29,30,aaa0069 ISlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 ISlice.tif,/Users/quantco/Viopsy Datasets/Fragments/30.jpeg
+30,31,aaa0063 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/Fragments/31.jpeg
+31,32,aaa0063 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/32.jpeg
+32,33,aaa0063 CSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 CSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/33.jpeg
+33,34,aaa0063 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/34.jpeg
+34,35,aaa 0059 G1G2G3G4_new2.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 G1G2G3G4_new2.tif,/Users/quantco/Viopsy Datasets/Fragments/35.jpeg
+35,36,aaa0060 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0060 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/36.jpeg
+36,37,aaa0060 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0060 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/37.jpeg
+37,38,aaa0086 GSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 GSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/38.jpeg
+38,39,aaa 0054 FSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 FSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/39.jpeg
+39,40,aaa0069 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/40.jpeg
+40,41,aaa0069 DSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 DSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/41.jpeg
+41,42,aaa 0054 D1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 D1234.tif,/Users/quantco/Viopsy Datasets/Fragments/42.jpeg
+42,43,aaa0087 I1I2I3I4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 I1I2I3I4.tif,/Users/quantco/Viopsy Datasets/Fragments/43.jpeg
+43,44,aaa0044 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/44.jpeg
+44,45,aaa0087 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/45.jpeg
+45,46,aaa 0059 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/46.jpeg
+46,47,aaa 0059 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/Fragments/47.jpeg
+47,48,aaa 0059 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/48.jpeg
+48,49,aaa0043 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/49.jpeg
+49,50,aaa 0072 FSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 FSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/50.jpeg
+50,51,aaa0087 D1D4D2D3.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 D1D4D2D3.tif,/Users/quantco/Viopsy Datasets/Fragments/51.jpeg
+51,52,aaa0044 C1C2C3C4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 C1C2C3C4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/52.jpeg
+52,53,aaa0087 F2F3F1F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 F2F3F1F4.tif,/Users/quantco/Viopsy Datasets/Fragments/53.jpeg
+53,54,aaa 0071 CSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 CSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/54.jpeg
+54,55,aaa0060 BSlice_new2.tif,/Users/quantco/Viopsy Datasets/slides/aaa0060 BSlice_new2.tif,/Users/quantco/Viopsy Datasets/Fragments/55.jpeg
+55,56,aaa0066 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/Fragments/56.jpeg
+56,57,aaa 0054 E1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 E1234.tif,/Users/quantco/Viopsy Datasets/Fragments/57.jpeg
+57,58,aaa0061 E1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa0061 E1234.tif,/Users/quantco/Viopsy Datasets/Fragments/58.jpeg
+58,59,aaa0086 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/59.jpeg
+59,60,aaa 0051 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/60.jpeg
+60,61,aaa0087 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/Fragments/61.jpeg
+61,62,aaa 0059 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/62.jpeg
+62,63,aaa 0072 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/63.jpeg
+63,64,aaa 0053 F1F2F3F4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 F1F2F3F4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/64.jpeg
+64,65,aaa0069 JSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 JSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/65.jpeg
+65,66,aaa0064 ISlice_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 ISlice_new.tif,/Users/quantco/Viopsy Datasets/Fragments/66.jpeg
+66,67,aaa 0053 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/67.jpeg
+67,68,aaa 0053 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/68.jpeg
+68,69,aaa0069 ASlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 ASlice.tif,/Users/quantco/Viopsy Datasets/Fragments/69.jpeg
+69,70,aaa 0054 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/70.jpeg
+70,71,aaa0087 H1H2H3H4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0087 H1H2H3H4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/71.jpeg
+71,72,aaa 0051 D1D2D3D4_correction.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 D1D2D3D4_correction.tif,/Users/quantco/Viopsy Datasets/Fragments/72.jpeg
+72,73,aaa 0051 A1A2A3A4_correction.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 A1A2A3A4_correction.tif,/Users/quantco/Viopsy Datasets/Fragments/73.jpeg
+73,74,aaa 0054 H1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 H1234.tif,/Users/quantco/Viopsy Datasets/Fragments/74.jpeg
+74,75,aaa0063 I1I2I3I4_new2.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 I1I2I3I4_new2.tif,/Users/quantco/Viopsy Datasets/Fragments/75.jpeg
+75,76,aaa0086 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/76.jpeg
+76,77,aaa0086 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/77.jpeg
+77,78,aaa 0051 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/78.jpeg
+78,79,aaa 0054 A1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 A1234.tif,/Users/quantco/Viopsy Datasets/Fragments/79.jpeg
+79,80,aaa 0071 FSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 FSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/80.jpeg
+80,81,aaa 0072 G1G2.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 G1G2.tif,/Users/quantco/Viopsy Datasets/Fragments/81.jpeg
+81,82,aaa0043 D.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 D.tif,/Users/quantco/Viopsy Datasets/Fragments/82.jpeg
+82,83,aaa0086 ISlice_new3.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 ISlice_new3.tif,/Users/quantco/Viopsy Datasets/Fragments/83.jpeg
+83,84,aaa 0051 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/Fragments/84.jpeg
+84,85,aaa 0051 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/Fragments/85.jpeg
+85,86,aaa 0051 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0051 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/86.jpeg
+86,87,aaa 0054 C1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0054 C1234.tif,/Users/quantco/Viopsy Datasets/Fragments/87.jpeg
+87,88,aaa 0071 ASlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0071 ASlice.tif,/Users/quantco/Viopsy Datasets/Fragments/88.jpeg
+88,89,aaa0066 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/89.jpeg
+89,90,aaa0066 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/90.jpeg
+90,91,aaa0044 E1E2E3E4_new.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 E1E2E3E4_new.tif,/Users/quantco/Viopsy Datasets/Fragments/91.jpeg
+91,92,aaa0066 a1234.tif,/Users/quantco/Viopsy Datasets/slides/aaa0066 a1234.tif,/Users/quantco/Viopsy Datasets/Fragments/92.jpeg
+92,93,aaa0044 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/93.jpeg
+93,94,aaa 0059 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 C1C2C3C4.tif,/Users/quantco/Viopsy Datasets/Fragments/94.jpeg
+94,95,aaa 0059 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 B1B2B3B4.tif,/Users/quantco/Viopsy Datasets/Fragments/95.jpeg
+95,96,aaa 0059 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0059 A1A2A3A4.tif,/Users/quantco/Viopsy Datasets/Fragments/96.jpeg
+96,97,aaa0043 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 F1F2F3F4.tif,/Users/quantco/Viopsy Datasets/Fragments/97.jpeg
+97,98,aaa0043 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 G1G2G3G4.tif,/Users/quantco/Viopsy Datasets/Fragments/98.jpeg
+98,99,aaa0043 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/99.jpeg
+99,100,aaa 0072 DSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 DSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/100.jpeg
+100,101,aaa0043 B.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 B.tif,/Users/quantco/Viopsy Datasets/Fragments/101.jpeg
+101,102,aaa 0053 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0053 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/102.jpeg
+102,103,aaa 0072 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa 0072 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/103.jpeg
+103,104,aaa0064 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/104.jpeg
+104,105,aaa0063 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 H1H2H3H4.tif,/Users/quantco/Viopsy Datasets/Fragments/105.jpeg
+105,106,aaa0064 B1B2B3B4_corrected.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 B1B2B3B4_corrected.tif,/Users/quantco/Viopsy Datasets/Fragments/106.jpeg
+106,107,aaa0063 ASlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0063 ASlice.tif,/Users/quantco/Viopsy Datasets/Fragments/107.jpeg
+107,108,aaa0060 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0060 D1D2D3D4.tif,/Users/quantco/Viopsy Datasets/Fragments/108.jpeg
+108,109,aaa0060 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/slides/aaa0060 E1E2E3E4.tif,/Users/quantco/Viopsy Datasets/Fragments/109.jpeg
+109,110,aaa0086 ESlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0086 ESlice.tif,/Users/quantco/Viopsy Datasets/Fragments/110.jpeg
+110,111,aaa0043 A.tif,/Users/quantco/Viopsy Datasets/slides/aaa0043 A.tif,/Users/quantco/Viopsy Datasets/Fragments/111.jpeg
+111,112,aaa0069 FSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0069 FSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/112.jpeg
+112,113,aaa0064 D1D2D3D4_corrected.tif,/Users/quantco/Viopsy Datasets/slides/aaa0064 D1D2D3D4_corrected.tif,/Users/quantco/Viopsy Datasets/Fragments/113.jpeg
+113,114,aaa0044 BSlice.tif,/Users/quantco/Viopsy Datasets/slides/aaa0044 BSlice.tif,/Users/quantco/Viopsy Datasets/Fragments/114.jpeg
